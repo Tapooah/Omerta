@@ -1,0 +1,8 @@
+body {
+    background-image: url("img/pexels-photo-2019546.jpeg");
+}
+
+.header {
+    background-color: black;
+    display: flex;
+}
